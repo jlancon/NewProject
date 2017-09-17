@@ -11,7 +11,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## R Markdown-Changing files
 
 Examplecode for using RStudio with Git and GitHub
 
