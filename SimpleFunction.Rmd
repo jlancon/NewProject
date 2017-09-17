@@ -1,0 +1,22 @@
+---
+title: "SimpleFunction"
+author: "J Lancon"
+date: "September 17, 2017"
+output: 
+  html_document:
+    keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Examplecode for using RStudio with Git and GitHub
+
+```{r cars}
+se <- function(x) {
+  sd(x)/length(x)
+}
+```
